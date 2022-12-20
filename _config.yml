@@ -29,7 +29,7 @@ baseurl: ""
 repo: "https://github.com/samip5/resolvers-page"
 date_format: "%d.%m.%Y"
 css_inline: true
-destination: ./build
+destination: ./_site
 
 fonts:
   preconnect_urls:
